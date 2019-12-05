@@ -21,7 +21,7 @@ public class TheRiddler {
 				"the rich need it,\r\n" + 
 				"and if you eat it, you'll die?");
 		// 4. If they got the answer right, pop up "correct!" and increase the score by one
-		if (response.equals("nothing good riddles like this never get old")) {
+		if (response.equals("nothing good riddles like this never gets old")) {
 			JOptionPane.showMessageDialog(null, "Correct");
 		}
 
