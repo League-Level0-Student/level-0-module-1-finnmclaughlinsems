@@ -1,0 +1,15 @@
+String
+Int
+Int
+Int, 12
+response
+String whatIWantToBeWhenIGrowUp= "";
+ int facebookFriends=1234;
+  String myBirthday="";
+    int sidesInATriangle=1;
+ String whatyougotforyourbirthday="the stuff that I wanted";
+ String  thelastmealyouate="a nutella sandwich";
+ Int whattimeyougotobed=1000;
+ Int howmanyRobotprogramsyouhavewritten= 60;
+ 
+ for (int i =1 ; i < 10; i++) {
