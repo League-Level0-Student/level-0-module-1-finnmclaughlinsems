@@ -1,8 +1,6 @@
-String
-Int
-Int
-Int, 12
-response
+int
+int
+int
 String whatIWantToBeWhenIGrowUp= "";
  int facebookFriends=1234;
   String myBirthday="";
@@ -12,4 +10,25 @@ String whatIWantToBeWhenIGrowUp= "";
  Int whattimeyougotobed=1000;
  Int howmanyRobotprogramsyouhavewritten= 60;
  
- for (int i =1 ; i < 10; i++) {
+ for (int i =1 ; i < 11; i++) {
+  for (int i =50 ; i < 75; i--) {
+  When you write a for loop you have to have a valuble variable then you compare a high or low number to a variable
+  String ok="yes";
+  if (ok.equals("yes")
+  JOptionPane.showMessageDialog(null, "happy");
+  else {
+  if (response.equals(null, "sad");
+  }
+  int age=13;
+  if (age == 13){
+   JOptionPane.showMessageDialog(null,"It’s so great being young");
+   }
+   String response=JOptionPane.showInputDialog("Which animal do you like dog or cat?");
+   if (response.equals("dog")) {
+   JOptionPane.showInputDialog("dog go woof");
+   String response=JOptionPane.showInputDialog("Which animal do you like dog or cat?");
+   if (response.equals("cat")) {
+   JOptionPane.showInputDialog("cat go meow");
+   else {
+  if (response.equals(null, "I don’t know that animal.");
+  }

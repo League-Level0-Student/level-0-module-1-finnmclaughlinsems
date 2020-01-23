@@ -14,7 +14,7 @@ public class TheRiddler {
 		// 1. Make a variable to hold the score
 		int score = 0;
 
-		// 3. Ask the user a riddle. Here are some ideas: bit.ly/some-riddles
+		// 3. Ask the user a riddle. Here are as: bit.ly/some-riddles
 		String response=JOptionPane.showInputDialog("What is greater than God,\r\n" + 
 				"more evil than the devil,\r\n" + 
 				"the poor have it,\r\n" + 
